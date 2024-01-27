@@ -1,0 +1,1 @@
+irace --target-runner target-runner.sh --parameter-file parameters.txt --train-instances-file train-instances.txt --train-instances-dir / --test-instances-file test-instances.txt --test-instances-dir / --digits 10 --seed 656412689 --bound-max 10000 --max-time 172800
